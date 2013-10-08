@@ -13,7 +13,7 @@
 	*/
 
 	var defaultKey		= '34XI9raD5P9cYGtvRvPwk3WTD4FWvrppp5UxDweLP0iZbYNI', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [210100368], // Comma separated array of Xively Feed ID numbers
+		defaultFeeds	= [123123000210100368], // Comma separated array of Xively Feed ID numbers
 		applicationName	= "Internet of Tea'ings", // Replaces Xively logo in the header
 		dataDuration	= '30days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
