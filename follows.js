@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'PWbsLvqRTP2MQq9Oag80xOqZwZYDUhkPRoChHzdBXRr5IeEw', // Unique master Xively API key to be used as a default
+	var defaultKey		= '34XI9raD5P9cYGtvRvPwk3WTD4FWvrppp5UxDweLP0iZbYNI', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [363299050], // Comma separated array of Xively Feed ID numbers
 		applicationName	= "Office Temperature ", // Replaces Xively logo in the header
 		dataDuration	= '5days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
